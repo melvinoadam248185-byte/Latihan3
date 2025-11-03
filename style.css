@@ -7,7 +7,7 @@ body {
   font-family: "Segoe UI", sans-serif;
 }
 
-.kartu {
+.card {
   position: relative;
   width: 700px;
   background: #fff;
@@ -18,7 +18,7 @@ body {
   border-bottom: 5px solid #1d9bf0;
 }
 
-.ket {
+.status {
   position: absolute;
   top: 15px;
   left: 20px;
@@ -56,13 +56,13 @@ h2 {
   margin-bottom: 25px;
 }
 
-.st {
+.stats {
   display: flex;
   justify-content: center;
   gap: 15px;
 }
 
-.sts {
+.stat {
   background: #fff;
   border: 2px dashed #e5e7eb;
   border-radius: 10px;
